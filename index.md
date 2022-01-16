@@ -3,7 +3,7 @@
 ### Time-Domain HiFi-GAN Outputs for EMA-to-Speech
 
 | **Text** | **Synthesized Audio** | **Ground Truth** |
-| --- | --- |
+| --- | --- | --- |
 | But this yard. | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | 
 | My whole house shook. | <audio controls=""> <source src="samples/mngu0_s1_0080_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | 
 | The prime minister dismissed any suggestion that the war was in any way to do with oil. | <audio controls=""> <source src="samples/mngu0_s1_0320_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | 
