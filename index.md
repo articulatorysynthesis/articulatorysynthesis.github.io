@@ -19,10 +19,10 @@
 
 | **Text** | **NSF-CAR** | **Time-Domain HiFi-GAN** | **Ground Truth** |
 | --- | --- | --- | --- |
-| "ra" to "na" | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "na" to "la" | <audio controls=""> <source src="samples/mngu0_s1_0080_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0080.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "la" to "ra" | <audio controls=""> <source src="samples/mngu0_s1_0320_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0320.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "ra" to "ja" | <audio controls=""> <source src="samples/mngu0_s1_0420_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0420.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "ta" to "tu" | <audio controls=""> <source src="samples/mngu0_s1_0800_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0800.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "tu" to "ti" | <audio controls=""> <source src="samples/mngu0_s1_0880_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0880.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
-| "ti" to "ta" | <audio controls=""> <source src="samples/mngu0_s1_1020_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_1020.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "ra" to "na" | <audio controls=""> <source src="samples/interp/nsf/r_a_n_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/r_a_n_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/r_a_n_a.mp3"> </audio> | 
+| "na" to "la" | <audio controls=""> <source src="samples/interp/nsf/n_a_l_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/n_a_l_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/n_a_l_a.mp3"> </audio> | 
+| "la" to "ra" | <audio controls=""> <source src="samples/interp/nsf/l_a_r_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/l_a_r_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/l_a_r_a.mp3"> </audio> | 
+| "ra" to "ja" | <audio controls=""> <source src="samples/interp/nsf/r_a_j_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/r_a_j_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/r_a_j_a.mp3"> </audio> | 
+| "ta" to "tu" | <audio controls=""> <source src="samples/interp/nsf/ta_tu.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/ta_tu.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/ta_tu.mp3"> </audio> | 
+| "tu" to "ti" | <audio controls=""> <source src="samples/interp/nsf/tu_ti.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/tu_ti.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/tu_ti.mp3"> </audio> | 
+| "ti" to "ta" | <audio controls=""> <source src="samples/interp/nsf/ti_ta.mp3"> </audio> | <audio controls=""> <source src="samples/interp/hifi/ti_ta.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/ti_ta.mp3"> </audio> | 
