@@ -14,3 +14,15 @@
 | These guys just played awesome today. | <audio controls=""> <source src="samples/mngu0_s1_1040_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_1040.mp3"> </audio> | 
 | People involved in commercial fish work may have brought them here. | <audio controls=""> <source src="samples/mngu0_s1_1120_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_1120.mp3"> </audio> | 
 | But with oil exploration having reached a plateau there would be an inevitable rise in world prices. | <audio controls=""> <source src="samples/mngu0_s1_1240_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_1240.mp3"> </audio> | 
+
+### Time-Domain Model Outputs for Interpolation Experiments
+
+| **Text** | **NSF-CAR** | **Time-Domain HiFi-GAN** | **Ground Truth** |
+| --- | --- | --- | --- |
+| "ra" to "na" | <audio controls=""> <source src="samples/mngu0_s1_0060_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "na" to "la" | <audio controls=""> <source src="samples/mngu0_s1_0080_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0080.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "la" to "ra" | <audio controls=""> <source src="samples/mngu0_s1_0320_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0320.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "ra" to "ja" | <audio controls=""> <source src="samples/mngu0_s1_0420_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0420.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "ta" to "tu" | <audio controls=""> <source src="samples/mngu0_s1_0800_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0800.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "tu" to "ti" | <audio controls=""> <source src="samples/mngu0_s1_0880_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0880.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
+| "ti" to "ta" | <audio controls=""> <source src="samples/mngu0_s1_1020_gen.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_1020.mp3"> </audio> | <audio controls=""> <source src="samples/mngu0_s1_0060.mp3"> </audio> | 
