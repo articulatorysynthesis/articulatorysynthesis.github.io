@@ -20,7 +20,7 @@
 ### Interpolation Experiments
 
 | **Text** | **HiFi-CAR** | **Ground Truth** |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | "ra" to "na" | <audio controls=""> <source src="samples/interp/hifi/r_a_n_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/r_a_n_a.mp3"> </audio> | 
 | "na" to "la" | <audio controls=""> <source src="samples/interp/hifi/n_a_l_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/n_a_l_a.mp3"> </audio> | 
 | "la" to "ra" | <audio controls=""> <source src="samples/interp/hifi/l_a_r_a.mp3"> </audio> | <audio controls=""> <source src="samples/interp/true/l_a_r_a.mp3"> </audio> | 
